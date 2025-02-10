@@ -23,11 +23,12 @@
 **Northeastern University College of Science**  
 _Sep 2024 - Present_
 
-- Mentored **30+ students** in Python, bioinformatics tools, and computational techniques.
-- Delivered **5+ lectures** on biological data analysis, emphasizing hands-on learning.
-- Evaluated **50+ assignments and capstone projects**, ensuring clarity and precision.
-- Optimized programming efficiency for students, improving bioinformatics workflows.
-- Organized **3+ coding workshops and group discussions**, fostering teamwork.
+- Mentored **30+ students** in Python, bioinformatics tools, and computational techniques, enhancing technical proficiency and confidence.  
+- Delivered **5+ interactive lectures** on biological data analysis and advanced computational methods with real-world applications.  
+- Evaluated **50+ assignments and capstone projects**, ensuring accuracy, clarity, and alignment with course objectives.  
+- Improved programming efficiency for **50+ students** by providing tailored recommendations, optimizing bioinformatics workflows.  
+- Fostered a **collaborative learning environment** through **3+ monthly coding workshops and group discussions**, enhancing teamwork and problem-solving skills.  
+
 
 ### Software Engineering Senior Analyst  
 **Capgemini Technology Services India Limited**  
