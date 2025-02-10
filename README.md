@@ -20,20 +20,24 @@
 ## Professional Experience
 
 ### Graduate Teaching Assistant - Python Programming  
-Northeastern University College of Science  
+**Northeastern University College of Science**  
 _Sep 2024 - Present_
 
-- Mentored students in Python and bioinformatics tools.
-- Assisted with lectures on biological data analysis and computational biology.
-- Evaluated assignments and projects, fostering a collaborative learning environment.
+- Mentored **30+ students** in Python, bioinformatics tools, and computational techniques.
+- Delivered **5+ lectures** on biological data analysis, emphasizing hands-on learning.
+- Evaluated **50+ assignments and capstone projects**, ensuring clarity and precision.
+- Optimized programming efficiency for students, improving bioinformatics workflows.
+- Organized **3+ coding workshops and group discussions**, fostering teamwork.
 
 ### Software Engineering Senior Analyst  
-Capgemini Technology Services India Limited  
+**Capgemini Technology Services India Limited**  
 _Oct 2021 - Dec 2023_
 
-- **LIMS Database Management**: Led database management for LIMS, improving efficiency and reducing errors by 30%.
-- **Reporting & Decision Support**: Developed over 15 reports using Jasper, improving decision-making and analysis speed.
-- **Software Development**: Enhanced Java-based systems, achieving a 15% improvement in performance with new features.
+- **LIMS Database Management:** Managed and optimized LIMS databases, reducing data errors by **30%** and improving efficiency by **20%**.
+- **Reporting & Decision Support:** Developed **15+ Jasper reports**, reducing analysis time by **40%** and enhancing decision-making.
+- **Automation & Process Improvement:** Automated LIMS-to-SAP data transfers, improving accuracy to **100%** and reducing manpower needs by **25%**.
+- **Software Development:** Enhanced Java-based systems, increasing performance by **15%** and adding **three new features**.
+- **Technical Issue Resolution:** Spearheaded troubleshooting in Empower and LIMS, reducing system downtime by **20%** and ensuring seamless operations.
 
 ## Skills
 
