@@ -60,9 +60,26 @@ _Sep 2019 – Dec 2019_
 
 ## Projects
 
-- **Circadian Gene Analysis in Colorectal Cancer** (March 2024 – April 2024): Analyzed gene expression data from GEO to uncover circadian rhythms in cancer biology.
-- **Comparative Gene Expression Analysis of Sox17** (Jan 2021 – May 2021): Studied Sox17 gene dysregulation in cholangiocytes, supporting drug discovery for Cholangiocarcinoma.
-- **Molecular Docking of Epilepsy Drugs with Flavonoids** (Jun 2020 – Sep 2020): Identified flavonoids with 30% higher binding affinity to PTEN receptor, suggesting enhanced efficacy.
+### CRISPR Off-Target Risk Prediction in Human Transcriptomics | Northeastern University | Jan 2025 – Present
+- Applied single-cell CRISPR-seq analysis by integrating transcriptomic and genomic data.  
+- Built an ML pipeline (PiCTURE + DNABERT-2) to detect CRISPR RNA off-target edits with **92% accuracy**.  
+- Conducted tissue-specific Gene Ontology (GO) enrichment to evaluate transcriptomic impacts in cancer models.  
+- Deployed reproducible Unix-based workflows using **Docker** and **GitHub** for scalability and collaboration.  
+
+### ONT Data Analysis Pipeline Development (College Project) | Northeastern University | Oct 2024 – Jan 2025
+- Designed prototype ONT pipelines for RNA/DNA analysis, including basecalling, demultiplexing, alignment (**minimap2**), and quality control.  
+- Built reproducible workflows using **Nextflow** and **bash scripting**, integrated with Docker and GitHub for collaboration.  
+- Leveraged **HPC (SLURM)** for parallelized execution and efficient resource utilization.  
+
+### Personalized Cancer Diagnosis | Northeastern University | Jun 2024 – Sep 2024
+- Designed a machine learning pipeline in Python for mutation-based cancer classification.  
+- Implemented feature engineering, exploratory data analysis, and supervised learning models (**Logistic Regression, Random Forest, Gradient Boosting**).  
+- Applied **SHAP-based gene-wise interpretation** to enhance prediction transparency; embedded findings into reproducible Jupyter notebooks for precision oncology applications.  
+
+### Colorectal Cancer Progression & Circadian Genes | Northeastern University | Mar 2024 – Apr 2024
+- Analyzed RNA-seq and microarray data using **PCA** and **Random Forests** to identify circadian-regulated immune pathways.  
+- Linked gene expression patterns to pathway-level functional validation in colorectal cancer biology.  
+- Produced clear visualizations and documented workflows for team-based scientific reporting.  
 
 ---
 
