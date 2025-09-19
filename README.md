@@ -5,6 +5,17 @@
 **Location**: Boston, MA  
 **LinkedIn**: [Lakshmikanth Reddy](http://www.linkedin.com/in/lakshmikanth-reddy-5125b11b2)  
 
+## Skills
+
+**Programming:** R, Python, SQL, Shell, Linux/Unix, GitHub, Java (basic)  
+**Pipelines & Workflow Tools:** Nextflow, Docker, Singularity, AWS, HPC (LSF, SLURM), reproducible pipelines  
+**Omics & Bioinformatics:** RNA-seq (bulk), scRNA-seq, proteomics, variant calling, differential expression analysis  
+**Machine Learning & Analysis:** PCA, Random Forests, clustering, supervised and unsupervised learning  
+**Visualization & Reporting:** ggplot2, Shiny, Streamlit, Matplotlib, Tableau, Power BI, technical presentations  
+**Domain Knowledge:** Genomics, oncology, immunology, microbial systems, translational bioinformatics  
+**Professional Skills:** Interdisciplinary team collaboration, mentorship, problem-solving, project management  
+
+
 ## Education
 
 - **Master of Science in Bioinformatics**  
@@ -64,6 +75,11 @@
 - Analyzed RNA-seq and microarray data using **PCA** and **Random Forests** to identify circadian-regulated immune pathways.  
 - Linked gene expression patterns to pathway-level functional validation in colorectal cancer biology.  
 - Produced clear visualizations and documented workflows for team-based scientific reporting.  
+
+## Leadership & Extracurriculars
+
+- **Competitive Cricket Player:** Played at competitive level, developing teamwork, discipline, and strategic thinking under pressure.  
+- **Community Coordinator, Northeastern University GABBA:** Organized student events, workshops, and networking opportunities to foster community engagement.  
 
 ---
 
