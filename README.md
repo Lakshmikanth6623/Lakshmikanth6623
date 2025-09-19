@@ -20,43 +20,27 @@
 ## Professional Experience
 
 ### Graduate Teaching Assistant - Python Programming  
-**Northeastern University College of Science**  
-_Sep 2024 - Present_
 
-- Mentored **30+ students** in Python, bioinformatics tools, and computational techniques, enhancing technical proficiency and confidence.  
-- Delivered **5+ interactive lectures** on biological data analysis and advanced computational methods with real-world applications.  
-- Evaluated **50+ assignments and capstone projects**, ensuring accuracy, clarity, and alignment with course objectives.  
-- Improved programming efficiency for **50+ students** by providing tailored recommendations, optimizing bioinformatics workflows.  
-- Fostered a **collaborative learning environment** through **3+ monthly coding workshops and group discussions**, enhancing teamwork and problem-solving skills.  
+### Teaching Assistant - Python Programming | Northeastern University | Boston, USA | Sep 2024 – Dec 2024
+- Mentored 30+ graduate students in **reproducible Python and Jupyter workflows** for biological data analysis.  
+- Guided students in experimental design, coding proficiency, and statistical interpretation of sequencing datasets.  
+- Facilitated clear communication of data-driven results, mirroring best practices used in professional bioinformatics teams.  
 
-
-### Software Engineering Senior Analyst  
-**Capgemini Technology Services India Limited**  
-_Oct 2021 - Dec 2023_
-
-- **LIMS Database Management:** Managed and optimized LIMS databases, reducing data errors by **30%** and improving efficiency by **20%**.
-- **Reporting & Decision Support:** Developed **15+ Jasper reports**, reducing analysis time by **40%** and enhancing decision-making.
-- **Automation & Process Improvement:** Automated LIMS-to-SAP data transfers, improving accuracy to **100%** and reducing manpower needs by **25%**.
-- **Software Development:** Enhanced Java-based systems, increasing performance by **15%** and adding **three new features**.
-- **Technical Issue Resolution:** Spearheaded troubleshooting in Empower and LIMS, reducing system downtime by **20%** and ensuring seamless operations.
-
-## Skills
-
-- **Programming**: Java, Python, R
-- **SQL**: Expert
-- **Data Visualization**: Excel, Power BI, Jasper Reports
-- **Genomics & Bioinformatics**: IGV, BLAST, Clustal Omega, Swiss Model, Cytoscape, Nextflow, FastQC
-- **Molecular Modeling & Docking**: Modeller, AutoDock, PyMol, Chimera
-- **Molecular Dynamics**: GROMACS
-- **Wet Lab Techniques**: PCR, DNA/RNA Extraction, Cell Culture, Flow Cytometry, Gel Electrophoresis
+### Senior Analyst | Capgemini Technology Services India Limited | Pune, India | Oct 2021 – Dec 2023
+- Automated **LIMS-to-SAP data transfer** using Python, achieving **100% accuracy** and boosting efficiency by **40%**.  
+- Developed reproducible data pipelines and automated workflows, reducing manual effort by **35%** and enabling real-time decision-making.  
+- Maintained large-scale databases with improved validation, reducing errors by **30%** and increasing efficiency by **20%**.  
+- Implemented **cloud-based ETL workflows** using AWS (S3, Lambda, EC2) for scalable data integration.  
+- Collaborated with interdisciplinary teams using **Jira**, ensuring data analysis translated into practical research outcomes.  
+- Applied **Azure-based version control** and workflow documentation to ensure reproducibility.
 
 ## Research Internship
 
-**Field Research Intern**  
-University Malaysia Pahang, Malaysia  
-_Sep 2019 – Dec 2019_
-
-- Research focused on **Power Generation and Metabolite Detection using Phenol in Microbial Fuel Cells**, utilizing bacteria and yeast to convert phenol into electricity while achieving phenol degradation.
+### Research Intern – Bioinformatics & Microbial Systems | University Malaysia Pahang, Malaysia | Sep 2019 – Apr 2020
+- Collaborated with wet-lab scientists to interpret experimental results and translate them into **bioinformatics analyses**.  
+- Optimized microbial growth media and fermentation conditions, boosting **electron output in microbial fuel cells by 15%** for phenol degradation.  
+- Maintained aseptic lab conditions, ensuring high-quality experimental data and reducing contamination risks.  
+- Performed **statistical modeling** and **R-based analysis** of microbial datasets to generate actionable biological insights.  
 
 ## Projects
 
